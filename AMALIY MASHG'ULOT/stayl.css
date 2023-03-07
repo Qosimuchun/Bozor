@@ -1,0 +1,59 @@
+.asosiy-div {
+    padding: 30px;
+}
+
+a {
+    text-decoration: none;
+} 
+
+.Brend {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hom {
+    border: 1px solid rgb(255, 0, 34);
+    background-color: rgb(255, 0, 34);
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.hom:hover {
+    background-color: rgb(255, 0, 34);
+    color: white;
+    border-radius: 10px;
+    padding: 13px;
+    transition: 0.3s;
+}
+
+.brend {
+    margin-right: 700px;
+}
+
+.iphone {
+    background: rgb(152, 152, 152);
+    text-align: center;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.text {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.Iphone {
+    padding: 90px;
+    color: white;
+}
+
+.uchD {
+    width: 20px;
+    margin-top: 5px;
+}
